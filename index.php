@@ -1,3 +1,3 @@
 <?php
-echo "Hello CraftsMen";
+include("header.php");
 ?>
